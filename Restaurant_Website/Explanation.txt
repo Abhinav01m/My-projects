@@ -1,0 +1,56 @@
+Explanation of the Code
+This HTML template represents a responsive website for a restaurant named "Kurt's." It includes multiple sections (e.g., navigation, home, gallery, menu, chefs, contact, and footer) with interactive features powered by external stylesheets, JavaScript libraries, and plugins.
+
+Structure Breakdown
+Head Section:
+
+Includes metadata, external CSS files, and Google Fonts for styling and responsiveness.
+CSS files include:
+bootstrap.min.css: Bootstrap framework for layout and styling.
+animate.min.css: For animations.
+font-awesome.min.css: Icon library.
+nivo-lightbox.css: Lightbox for viewing images.
+style.css: Custom styles.
+Body Section:
+
+Preloader Section: Displays a loading animation before the page loads.
+Navigation Section: Contains a sticky navbar with links for smooth scrolling to various sections.
+Content Sections:
+Home: Introduction with a title and button.
+Gallery: Image gallery using Nivo Lightbox.
+Menu: List of dishes with descriptions and prices.
+Team: Profiles of chefs with images.
+Contact: A form for user messages and restaurant contact details.
+Footer Section:
+Includes contact info, operating hours, and social media links.
+JavaScript:
+
+jquery.js: Core jQuery library.
+bootstrap.min.js: Bootstrap's JS for UI components.
+jquery.parallax.js, smoothscroll.js, and wow.min.js: For animations and smooth scrolling.
+nivo-lightbox.min.js: Adds functionality to the image gallery.
+custom.js: Contains project-specific JavaScript.
+Methods, Resources, and Tools
+Methods:
+
+Smooth scrolling (smoothScroll class links).
+Animations triggered on scroll using wow.js.
+Lightbox gallery for images.
+Resources:
+
+Bootstrap: For grid layout and responsive design.
+Font Awesome: For social media icons.
+Google Fonts: To add custom fonts (Roboto).
+Nivo Lightbox: For an interactive image gallery.
+Tools:
+
+HTML5: Structural backbone.
+CSS3: Styling and animations.
+JavaScript/jQuery: Adding interactivity.
+Predefined libraries: Simplify tasks (e.g., animations, lightbox).
+Why This is Open Source
+This project uses free-to-use libraries, frameworks, and templates:
+
+Template from Tooplate: Licensed for customization.
+Open-source tools like Bootstrap, jQuery, and Font Awesome.
+Sharing this as open source promotes collaboration, learning, and reuse for similar restaurant websites.
